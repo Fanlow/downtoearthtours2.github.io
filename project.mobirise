@@ -10781,7 +10781,7 @@
                 "itemPrice": "$90",
                 "oldPriceValue": "$124",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=90&item_name=Custom+Item&currency_code=USD\" class=\"btn btn-secondary display-7 note-editable note-air-editor\">Book now!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=90&item_name=Horseback+Adventure+&currency_code=USD\" class=\"btn btn-secondary display-7 note-editable note-air-editor\">Book now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/5_ie2ud018svc16hm889dzxgw8_ooy2y8-1280x856.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/5-ie2ud018svc16hm889dzxgw8-ooy2y8-1280x856-800x535.jpg",
                 "customStyle5": "display-5",
