@@ -10801,7 +10801,7 @@
                 "itemPrice": "$90",
                 "oldPriceValue": "$174",
                 "sale": "-50%",
-                "button": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary display-7\">Book now!</a>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amount=90&item_name=Blue+Hole&currency_code=USD\" class=\"btn btn-secondary display-7 note-air-editor note-editable\">Book now!</a>",
                 "image": "@PROJECT_PATH@/assets/images/blue%20hole-1280x853.png",
                 "thumb": "@PROJECT_PATH@/assets/images/blue-hole-1280x853-800x533.png",
                 "customStyle5": "display-5",
