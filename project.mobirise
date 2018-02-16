@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 98,
+    "uniqCompNum": 99,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -1806,7 +1806,7 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2p",
+          "_anchor": "custom-html-2q",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?13252225&data_platform=code&data_date=2018-02-16\" charset=\"utf-8\"></script>",
