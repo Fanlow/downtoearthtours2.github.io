@@ -2617,6 +2617,12 @@ body {
     left: -1rem;
   }
 }
+#custom-html-2p {
+  /* Type valid CSS here */
+}
+#custom-html-2p .my-image {
+  width: 100%;
+}
 .cid-qFljhrwSuW {
   background-image: url("../../../assets/images/supertabs1-1400x835.png");
   overflow: hidden !important;
