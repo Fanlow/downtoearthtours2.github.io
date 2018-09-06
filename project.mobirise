@@ -52,7 +52,9 @@
       "counterBack": "#27aae0",
       "checkoutButton": "Check Out"
     },
-    "siteFonts": []
+    "siteFonts": [],
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Aaron%20Drake/Documents/Github/fanlow.github.io/fanlow.github.io/downtoearthtours2.github.io"
   },
   "pages": {
     "index.html": {
