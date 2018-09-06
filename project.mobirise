@@ -30,7 +30,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 110,
+    "uniqCompNum": 119,
     "versionPublish": "4.8.2",
     "favicon": "",
     "noImageResize": "",
@@ -4441,7 +4441,7 @@
     "page8.html": {
       "settings": {
         "title": "Booking",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
